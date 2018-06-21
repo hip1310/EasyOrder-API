@@ -1,0 +1,11 @@
+{
+  "name": "easyorder-api",
+  "version": "1.0.0",
+  "description": "Node API for EasyOrder app",
+  "main": "app.js",
+  "author": "Harsh Patel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
